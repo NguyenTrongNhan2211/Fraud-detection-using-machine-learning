@@ -4,7 +4,7 @@
 | Họ và tên               | MSSV        | Email                             | Website cá nhân              |
 |-------------------------|-------------|-----------------------------------|------------------------------|
 | Nguyễn Phạm Tuấn Khôi   | 3123410174  | 9tuankhoi6@gmail.com              | https://tuankhoi18.github.io |
-| Ngô Thượng Bảo          | 3123410024  |                                   |                              |
+| Ngô Thượng Bảo          | 3123410024  | trongnhan0567@gmail.com           | https://nguyentrongnhan2211.github.io/trongnhan1705.github.io            |
 | Nguyễn Trọng Nhân       | 3123410242  |                                   |                              |
 | Nguyễn Hữu Tri          | 3123410387  |                                   |                              |
 
